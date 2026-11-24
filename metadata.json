@@ -1,0 +1,6 @@
+{
+  "name": "Ecos da Selva",
+  "description": "Jogo 3D de exploração em terceira pessoa ambientado em uma selva tropical vibrante em português do Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
